@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "hook-logs-db": {
+      "command": "D:\\workspace\\ahook_mcp\\venv\\Scripts\\python.exe",
+      "args": [
+        "D:\\workspace\\ahook_mcp\\adb_sqlite_mcp.py"
+      ]
+    }
+  }
+}
